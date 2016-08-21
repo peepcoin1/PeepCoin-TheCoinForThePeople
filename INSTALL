@@ -1,0 +1,9 @@
+Building Peepcoin
+
+See doc/readme-qt.rst for instructions on building Peepcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Peepcoin.
+
+See doc/build-*.txt for instructions on building peepcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Peepcoin.

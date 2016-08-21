@@ -1,0 +1,2 @@
+debian/bin/peepcoind usr/bin
+src/peepcoind usr/lib/peepcoin
